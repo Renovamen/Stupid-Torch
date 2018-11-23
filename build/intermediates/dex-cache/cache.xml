@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zou/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="/Users/zou/Desktop/Torch/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.1.3_aabfc16978786ad95949478dfb0984bb28f4c583/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zou/Desktop/Torch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/zou/Desktop/Torch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2f2d91367b4e493981e7db4de68e0e6802524766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zou/Desktop/Torch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="938d0add18e26ef86a4fd951cbd81bf3a6c373c1">
+        <dex dex="/Users/zou/Desktop/Torch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5fcdfbd0b3f75cb07ff3a496095223a93e03f980/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zou/.android/build-cache/090fdea526c264f0f1ece94f2a81bf7d220c71c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="/Users/zou/Desktop/Torch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_465a2284e9543a8ccf8c02c1029dd52587a8f49f/classes.dex" />
+    </item>
+
+</items>

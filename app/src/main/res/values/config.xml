@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <bool name="useCameraInterface">true</bool>
+    <string name="flashDevice" translatable="false">/sys/class/leds/flashlight/brightness</string>
+    <integer name="valueOff">0</integer>
+    <integer name="valueOn">1</integer>
+
+</resources>

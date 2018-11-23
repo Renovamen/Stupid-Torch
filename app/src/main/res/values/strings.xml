@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name" translatable="false">Torch</string>
+    <string name="about">关于</string>
+    <string name="add">Add</string>
+    <string name="apply">确定应用该颜色吗 ?</string>
+    <string name="color">主题颜色</string>
+    <string name="colorful">Colorful screen</string>
+    <string name="copyright" translatable="false">Copyright &#169; 2018 Renovamen</string>
+    <string name="choose">选择颜色</string>
+    <string name="custom">自定义</string>
+	<string name="developer">点击下面的章鱼猫去我的Github上Star一下这个项目并Follow一下我吧球球了。</string>
+    <string name="disabled">关闭</string>
+    <string name="discolored">Screen discolored</string>
+    <string name="enabled">开启</string>
+    <string name="first">这是一个非常有用的手电筒。\n\n点击屏幕上的圆开启电筒，如果手机在有光照的地方，闪光灯就会亮，这是突破性的非常有用的功能，然后再点一次关闭手电筒。\n\n长按屏幕上的圆打开设置界面。\n\n如果你的设备没有闪光灯，可以在设置中设置屏幕白光。</string>
+    <string name="hello">吼哇 !</string>
+    <string name="mode" translatable="false">功能</string>
+    <string name="no">No</string>
+    <string name="okay_ok" translatable="false">OK</string>
+    <string name="okay" translatable="false">好的我会Star这个项目并Follow你的</string>
+    <string name="screen">屏幕白光</string>
+    <string name="settings">设置</string>
+    <string name="sos">SOS</string>
+    <string name="torch_title">Torch on</string>
+    <string name="torch_toggle">Touch to turn off</string>
+    <string name="url" translatable="false">https://github.com/Renovamen</string>
+    <string name="widget" translatable="false">Widget</string>
+    <string name="yes">Yes</string>
+    <string name="red">红</string>
+    <string name="pink">粉</string>
+    <string name="purple">紫</string>
+    <string name="deepPurple">深紫</string>
+    <string name="indigo">靛蓝</string>
+    <string name="blue">蓝</string>
+    <string name="lightBlue">淡蓝</string>
+    <string name="cyan">青</string>
+    <string name="teal">鸭翅绿</string>
+    <string name="green">绿</string>
+    <string name="lightGreen">淡绿</string>
+    <string name="lime">柠檬黄</string>
+    <string name="yellow">黄</string>
+    <string name="amber">琥珀</string>
+    <string name="orange">橙</string>
+    <string name="deepOrange">深橙</string>
+    <string name="brown">棕</string>
+    <string name="grey">灰</string>
+    <string name="blueGrey">蓝灰</string>
+
+</resources>

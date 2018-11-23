@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <PreferenceCategory
+        android:key="settings"
+        android:title="@string/mode" >
+
+        <CheckBoxPreference
+            android:key="sos"
+            android:title="@string/sos"
+            android:summaryOn="@string/enabled"
+            android:summaryOff="@string/disabled"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:key="screen"
+            android:title="@string/screen"
+            android:summaryOn="@string/enabled"
+            android:summaryOff="@string/disabled"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="customizable"
+        android:title="@string/custom" >
+
+        <ListPreference
+            android:key="color"
+            android:title="@string/color"
+            android:defaultValue="@string/amber"
+            android:entries="@array/colors"
+            android:entryValues="@array/colors"
+            android:dialogTitle="@string/choose" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>  
